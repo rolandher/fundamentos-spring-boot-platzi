@@ -1,4 +1,4 @@
-package com.fundamentosplatzi.springboot.fundamentos;
+package com.creandoUnaApiRest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
